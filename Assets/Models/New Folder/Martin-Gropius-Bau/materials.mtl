@@ -1,0 +1,301 @@
+# Created with FME Version: FME(R) 2020.0.2.1 20200511 - Build 20238 - linux-x64
+newmtl tex_59
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_59.jpg
+
+newmtl tex_39
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_39.jpg
+
+newmtl tex_66
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_66.jpg
+
+newmtl tex_18
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_18.jpg
+
+newmtl tex_25
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_25.jpg
+
+newmtl tex_50
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_50.jpg
+
+newmtl tex_7
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_7.jpg
+
+newmtl tex_69
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_69.jpg
+
+newmtl tex_26
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_26.jpg
+
+newmtl tex_2
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_2.jpg
+
+newmtl tex_5
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_5.jpg
+
+newmtl tex_51
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_51.jpg
+
+newmtl tex_68
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_68.jpg
+
+newmtl tex_49
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_49.jpg
+
+newmtl tex_14
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_14.jpg
+
+newmtl tex_65
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_65.jpg
+
+newmtl tex_16
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_16.jpg
+
+newmtl tex_60
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_60.jpg
+
+newmtl tex_8
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_8.jpg
+
+newmtl tex_53
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_53.jpg
+
+newmtl tex_13
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_13.jpg
+
+newmtl tex_36
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_36.jpg
+
+newmtl tex_10
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_10.jpg
+
+newmtl tex_35
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_35.jpg
+
+newmtl tex_43
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_43.jpg
+
+newmtl tex_56
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_56.jpg
+
+newmtl tex_30
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_30.jpg
+
+newmtl tex_1
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_1.jpg
+
+newmtl tex_52
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_52.jpg
+
+newmtl tex_58
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_58.jpg
+
+newmtl tex_34
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_34.jpg
+
+newmtl tex_27
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_27.jpg
+
+newmtl tex_0
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_0.jpg
+
+newmtl tex_17
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_17.jpg
+
+newmtl tex_57
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_57.jpg
+
+newmtl tex_67
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_67.jpg
+
+newmtl tex_40
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_40.jpg
+
+newmtl tex_73
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_73.jpg
+
+newmtl tex_63
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_63.jpg
+
+newmtl tex_6
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_6.jpg
+
+newmtl tex_61
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_61.jpg
+
+newmtl tex_3
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_3.jpg
+
+newmtl tex_47
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_47.jpg
+
+newmtl tex_21
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_21.jpg
+
+newmtl tex_12
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_12.jpg
+
+newmtl tex_42
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_42.jpg
+
+newmtl tex_37
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_37.jpg
+
+newmtl tex_62
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_62.jpg
+
+newmtl tex_32
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_32.jpg
+
+newmtl tex_38
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_38.jpg
+
+newmtl tex_19
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_19.jpg
+
+newmtl tex_74
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_74.jpg
+
+newmtl tex_70
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_70.jpg
+
+newmtl tex_64
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_64.jpg
+
+newmtl tex_24
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_24.jpg
+
+newmtl tex_22
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_22.jpg
+
+newmtl tex_46
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_46.jpg
+
+newmtl tex_33
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_33.jpg
+
+newmtl tex_29
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_29.jpg
+
+newmtl tex_23
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_23.jpg
+
+newmtl tex_9
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_9.jpg
+
+newmtl tex_72
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_72.jpg
+
+newmtl tex_11
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_11.jpg
+
+newmtl tex_54
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_54.jpg
+
+newmtl tex_20
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_20.jpg
+
+newmtl tex_45
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_45.jpg
+
+newmtl tex_44
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_44.jpg
+
+newmtl tex_41
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_41.jpg
+
+newmtl tex_55
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_55.jpg
+
+newmtl tex_48
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_48.jpg
+
+newmtl tex_28
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_28.jpg
+
+newmtl tex_31
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_31.jpg
+
+newmtl tex_4
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_4.jpg
+
+newmtl tex_15
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_15.jpg
+
+newmtl tex_71
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_71.jpg
+

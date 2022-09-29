@@ -1,0 +1,73 @@
+# Created with FME Version: FME(R) 2020.0.2.1 20200511 - Build 20238 - linux-x64
+newmtl tex_2
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_2.jpg
+
+newmtl tex_5
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_5.jpg
+
+newmtl tex_0
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_0.jpg
+
+newmtl tex_9
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_9.jpg
+
+newmtl tex_11
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_11.jpg
+
+newmtl tex_13
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_13.jpg
+
+newmtl tex_3
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_3.jpg
+
+newmtl tex_17
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_17.jpg
+
+newmtl tex_1
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_1.jpg
+
+newmtl tex_8
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_8.jpg
+
+newmtl tex_14
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_14.jpg
+
+newmtl tex_4
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_4.jpg
+
+newmtl tex_10
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_10.jpg
+
+newmtl tex_12
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_12.jpg
+
+newmtl tex_16
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_16.jpg
+
+newmtl tex_7
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_7.jpg
+
+newmtl tex_6
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_6.jpg
+
+newmtl tex_15
+Ks 0.333333 0.333333 0.333333
+map_Kd ./materials_textures/tex_15.jpg
+
